@@ -1,7 +1,7 @@
 {
 	"id": "bili2obsidian",
 	"name": "BiliBili Sync",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "同步 B 站收藏夹到 Obsidian Vault，可选 AI 总结视频逐字稿",
 	"author": "自律小嘉同学",
